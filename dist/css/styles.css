@@ -78,7 +78,10 @@
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fbf1cd;
 }
-
+.img-size{
+  width: 150px ; 
+  height: 150px;
+}
 *,
 *::before,
 *::after {
